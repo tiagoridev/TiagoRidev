@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**TiagoRidev/TiagoRidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World 👋
 
-Here are some ideas to get you started:
+Meu nome Tiago, sou do Rio de Janeiro. Atuei durante alguns anos na área de RH e realizei minha transição de carreira para Dev Front-End😍, sou apaixonado por tecnologia e tudo que ela pode nos proporcionar. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre:
+
+- Estou cursando Análise e Desenvolvimento de Sistemas, pelo formato EAD.
+- Atualmente além de HTML e CSS, tenho focado meus estudos em Lógica de Programação e JavaScript.
+- Explorando também a área de UI/UX Design.
+- Tenho conhecimento nas ferramentas: Adobe XD e Illustrator.
+
+ ### Onde me encontrar? ⏬
+
+ 
+
