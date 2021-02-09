@@ -1,7 +1,7 @@
 
 ## Hello World 👋
 
-Meu nome Tiago, sou do Rio de Janeiro. Atuei durante alguns anos na área de RH e realizei minha transição de carreira para Dev Front-End😍, sou apaixonado por tecnologia e tudo que ela pode nos proporcionar. 
+Meu nome é Tiago, sou do Rio de Janeiro. Atuei durante alguns anos na área de RH e realizei minha transição de carreira para Dev Front-End😍, sou apaixonado por tecnologia e tudo que ela pode nos proporcionar. 
 
 ### Sobre:
 
