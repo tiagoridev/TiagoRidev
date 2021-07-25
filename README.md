@@ -8,7 +8,7 @@ Olá, eu sou o Tiago. Atuei durante alguns anos na área de RH porém realizei m
 - Graduando em Análise e Desenvolvimento de Sistemas.
 - Atualmente além de HTML e CSS, tenho focado meus estudos em Lógica de Programação e JavaScript.
 - Explorando também a área de UI/UX Design.
-- Tenho conhecimento nas ferramentas: Adobe XD e Illustrator.
+- Tenho conhecimento nas ferramentas: Figma, Adobe XD e Illustrator.
 
 **Vamos codar** 💻!
 
