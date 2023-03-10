@@ -13,7 +13,7 @@ I'm Tiago Ribeiro, Systems Analysis and Development Graduate and Software Develo
 
 
 
-##  I have knowledge: 
+##  I have knowledge in the tools : 
 
 <div style="inline_block">
 <img align="center" alt="Adobe Xd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
