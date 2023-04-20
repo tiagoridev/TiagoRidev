@@ -1,8 +1,9 @@
 # Hello world! 👋
 
-I'm Tiago Ribeiro, Systems Analysis and Development Graduate and Software Developer.
+Me chamo Tiago Ribeiro, Desenvolvedor Front End, apaixonado por tecnologia e pelas montanhas. </br>
+Veja abaixo, algumas das minhas hard skills:
 
-## Technologies use day by day:
+## Tecnologias que uso:
 <div style="inline_block">
 <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -13,7 +14,7 @@ I'm Tiago Ribeiro, Systems Analysis and Development Graduate and Software Develo
 
 
 
-##  I have knowledge in the tools : 
+##  Ferramentas que possuo conhecimento: 
 
 <div style="inline_block">
 <img align="center" alt="Adobe Xd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
@@ -25,7 +26,7 @@ I'm Tiago Ribeiro, Systems Analysis and Development Graduate and Software Develo
 
 
 
-## Where to find me?
+## Onde você pode me encontrar?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagoribeirotech/)](https://www.linkedin.com/in/tiagoribeirotech/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtotiagobr.desenvolvedor@gmail.com)](mailto:tiagobr.desenvolvedor@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/tiagoribeirorj/?hl=pt-br)](https://www.instagram.com/tiagoribeirorj/?hl=pt-br)
 
 
