@@ -1,6 +1,7 @@
 # Hello world! 👋
 
 Me chamo Tiago Ribeiro, Desenvolvedor Front End, apaixonado por tecnologia e pelas montanhas. </br>
+Trabalho resolvendo problemas e construindo soluções acessíveis. </br>
 Veja abaixo, algumas das minhas hard skills:
 
 ## Tecnologias que uso:
